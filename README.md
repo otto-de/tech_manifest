@@ -353,7 +353,7 @@ By focussing on security from the beginning, we mitigate not only the financial 
 
 **Implications**
 
--   Stick to our [Security Dojo](https://dojo.sec.otto.de/#/) (Security Application checklist) and participate in the security guild (opSec-Security). 
+-   Stick to our [Security Dojo](https://teamdojo.sec.otto.de/)(Security Application checklist) and participate in the security guild (opSec-Security). 
 -   Have a security champion/catalyst and consider the security aspects of every story
 -   Always use TLS and make sure the caller of your service is authenticated and authorized. That means "HTTPS everywhere, not HTTP."
 -   Use threat modelling workshops (OTTO provides moderated team workshops with security experts) to identify threats that are inherent to the domain (e.g. amplification attacks where a small number of  malicious database query causes a service outage)
