@@ -1,4 +1,4 @@
-General:
+Deprecated:
 --------
 
 # This document is deprecated. Please refer to https://og2.me/TRoP now.
