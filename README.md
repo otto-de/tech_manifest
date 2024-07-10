@@ -1,6 +1,11 @@
 General:
 --------
 
+# This document is deprecated. Please refer to https://og2.me/TRoP now.
+
+General:
+--------
+
 This version was updated **in September 2020** and is **accepted** by all **DeepSea teams**. Additionally, the payment organization lives by this manifest as well. Discussions with other departments are ongoing, while most of it is already accepted company-wide.
 
 These values & principles are widely accepted and can be seen as mandatory. In rare specific cases, deviations may be necessary, but should be avoided. If unsure, discuss these cases with TDs of affected teams or within the TD-Round/Tech-Circle
